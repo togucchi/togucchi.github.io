@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Portfolio",
+    "name": "Toguchi's Portfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -35,13 +35,15 @@
     "uniqCompNum": 18,
     "versionPublish": "4.7.0",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Toguchi's Portfolio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
