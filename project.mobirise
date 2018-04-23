@@ -36,7 +36,7 @@
     "versionPublish": "4.7.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/web-hi-res-512-128x128-1.png",
     "noImageResize": ""
   },
   "pages": {
